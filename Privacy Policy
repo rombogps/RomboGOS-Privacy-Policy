@@ -1,0 +1,31 @@
+PRIVACY POLICY
+
+1) Information we collect
+We collect different kinds of informations from or about your device for
+debug purposes and app improvement only. On crash, we collect some
+device informations (like operating system, hardware version, device
+settings and device identifiers) and the action you have done before the
+crash.
+
+All data we collect are Non-Personally Identifiable Information Only.
+For example if you add a contact to a project, all the informations you enter
+are stored locally in the app only or add to your phone address book.
+
+2) Usage of these informations
+We use all of the informations we have to help us improve our apps and
+provide you a better user experience.
+
+3) Information sharing
+We don’t share any information of any kind from or about you with ThirdParty
+Partners or Customers.
+
+4) Policy changes
+All modification of any kind of these privacy policy will be noticed on this
+page. Do not hesitate to come back to have a look on our privacy policy
+
+5) Permissions used in Android App
+- android.permission.RECORD_AUDIO : this permission is used to let
+you record voice conversation with the ROMBOGPS device.
+- android.permission.READ_PHONE_STATE : this permission is used to
+be able to check phone state in case user needs to do an update of the
+firmware of his ROMBOGPS device.
